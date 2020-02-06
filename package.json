@@ -4,7 +4,7 @@
   "description": "Agora vai",
   "main": "index.js",
   "author": "KeeP",
-  "license": "Y",
+  "license": "mit",
   "scripts": {
     "start": "nodemon index.js"
   },
