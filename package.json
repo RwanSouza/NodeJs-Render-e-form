@@ -1,0 +1,19 @@
+{
+  "name": "Rwan",
+  "version": "1.0.0",
+  "description": "Agora vai",
+  "main": "index.js",
+  "author": "KeeP",
+  "license": "Y",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
